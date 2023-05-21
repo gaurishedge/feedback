@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
   <%@ page import="java.sql.*"%>
@@ -8,7 +9,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Admin</title>
+<title>Admin1</title>
 <link href="admin.css" rel="stylesheet" type="text/css">
 
 
