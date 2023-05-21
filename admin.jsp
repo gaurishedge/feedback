@@ -9,7 +9,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Admin1</title>
+<title>Admin</title>
 <link href="admin.css" rel="stylesheet" type="text/css">
 
 
